@@ -1,0 +1,22 @@
+{
+    "name": "liuwen/alipay-sdk-php",
+    "description": "alipay sdk for composer",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "liuwen",
+            "email": "kkfd008@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": ">=5.5.38",
+        "ext-curl": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Liuwen\\Alipay\\": "src/"
+        }
+    }
+}
