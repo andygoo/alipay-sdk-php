@@ -10,7 +10,6 @@
             "email": "kkfd008@gmail.com"
         }
     ],
-    "prefer-stable": true,
     "require": {
         "php": ">=5.5.38",
         "ext-curl": "*"
