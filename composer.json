@@ -2,7 +2,7 @@
     "name": "liuwen/alipay-sdk-php",
     "description": "alipay sdk for composer",
     "type": "library",
-    "keywords":"Alipay SDK",
+    "keywords":["alipay sdk composer"],
     "license": "MIT",
     "authors": [
         {
@@ -11,7 +11,7 @@
         }
     ],
     "require": {
-        "php": ">=5.5.38",
+        "php": ">=5.5.38"
     },
     "require-dev": {
         "php": ">=5.5.38",
