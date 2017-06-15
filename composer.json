@@ -3,7 +3,7 @@
     "description": "alipay sdk for composer",
     "type": "library",
     "keywords":["alipay sdk composer"],
-    "license": "MIT",
+    "license": "Apache-2.0",
     "authors": [
         {
             "name": "liuwen",
