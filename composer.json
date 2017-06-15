@@ -12,6 +12,9 @@
     ],
     "require": {
         "php": ">=5.5.38",
+    },
+    "require-dev": {
+        "php": ">=5.5.38",
         "ext-curl": "*"
     },
     "autoload": {
