@@ -1,5 +1,5 @@
 <?php
-namespace Mayi\Alipay;
+namespace Mayi\Alipay\Request;
 /**
  * ALIPAY API: alipay.offline.market.shop.discount.query request
  *
