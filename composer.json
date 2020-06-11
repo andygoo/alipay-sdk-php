@@ -1,5 +1,5 @@
 {
-    "name": "Mayi/alipay-sdk-php",
+    "name": "mayi/alipay-sdk-php",
     "description": "alipay sdk for composer",
     "type": "library",
     "keywords":["alipay sdk composer"],
