@@ -1,4 +1,5 @@
 <?php
+namespace Mayi\Alipay;
 /**
  * ALIPAY API: alipay.open.mini.version.delete request
  *

@@ -1,4 +1,5 @@
 <?php
+namespace Mayi\Alipay;
 /**
  *   加密工具类
  *

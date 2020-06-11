@@ -1,4 +1,5 @@
 <?php
+namespace Mayi\Alipay;
 /**
  * ALIPAY API: alipay.data.dataservice.bill.downloadurl.query request
  *

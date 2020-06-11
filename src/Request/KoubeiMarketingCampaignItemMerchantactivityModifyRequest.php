@@ -1,4 +1,5 @@
 <?php
+namespace Mayi\Alipay;
 /**
  * ALIPAY API: koubei.marketing.campaign.item.merchantactivity.modify request
  *

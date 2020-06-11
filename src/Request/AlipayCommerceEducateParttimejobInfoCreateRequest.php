@@ -1,4 +1,5 @@
 <?php
+namespace Mayi\Alipay;
 /**
  * ALIPAY API: alipay.commerce.educate.parttimejob.info.create request
  *

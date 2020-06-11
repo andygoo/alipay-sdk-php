@@ -1,4 +1,5 @@
 <?php
+namespace Mayi\Alipay;
 /**
  * ALIPAY API: alipay.pass.code.add request
  *

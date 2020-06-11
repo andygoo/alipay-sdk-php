@@ -1,25 +1,25 @@
 {
-    "name": "liuwen/alipay-sdk-php",
+    "name": "Mayi/alipay-sdk-php",
     "description": "alipay sdk for composer",
     "type": "library",
     "keywords":["alipay sdk composer"],
     "license": "Apache-2.0",
     "authors": [
         {
-            "name": "liuwen",
-            "email": "kkfd008@gmail.com"
+            "name": "xiaowenjie",
+            "email": "xiaowenjie0@gmail.com"
         }
     ],
     "require": {
-        "php": ">=5.5.38"
+        "php": ">=7.2.0"
     },
     "require-dev": {
-        "php": ">=5.5.38",
+        "php": ">=7.2.0",
         "ext-curl": "*"
     },
     "autoload": {
         "psr-4": {
-            "Liuwen\\Alipay\\": "src/"
+            "Mayi\\Alipay\\": "src/"
         }
     }
 }

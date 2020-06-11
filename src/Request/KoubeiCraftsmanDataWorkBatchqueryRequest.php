@@ -1,4 +1,5 @@
 <?php
+namespace Mayi\Alipay;
 /**
  * ALIPAY API: koubei.craftsman.data.work.batchquery request
  *

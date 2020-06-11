@@ -1,4 +1,5 @@
 <?php
+namespace Mayi\Alipay;
 /**
  * ALIPAY API: alipay.eco.mycar.parking.parkinglotinfo.create request
  *

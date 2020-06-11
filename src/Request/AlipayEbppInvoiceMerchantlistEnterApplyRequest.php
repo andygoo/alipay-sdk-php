@@ -1,4 +1,5 @@
 <?php
+namespace Mayi\Alipay;
 /**
  * ALIPAY API: alipay.ebpp.invoice.merchantlist.enter.apply request
  *

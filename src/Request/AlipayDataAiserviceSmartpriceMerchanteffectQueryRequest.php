@@ -1,4 +1,5 @@
 <?php
+namespace Mayi\Alipay;
 /**
  * ALIPAY API: alipay.data.aiservice.smartprice.merchanteffect.query request
  *

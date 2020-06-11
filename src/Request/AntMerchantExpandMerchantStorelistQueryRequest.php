@@ -1,4 +1,5 @@
 <?php
+namespace Mayi\Alipay;
 /**
  * ALIPAY API: ant.merchant.expand.merchant.storelist.query request
  *

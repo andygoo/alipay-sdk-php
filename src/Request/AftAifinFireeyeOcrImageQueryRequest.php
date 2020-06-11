@@ -1,4 +1,5 @@
 <?php
+namespace Mayi\Alipay;
 /**
  * ALIPAY API: aft.aifin.fireeye.ocr.image.query request
  *

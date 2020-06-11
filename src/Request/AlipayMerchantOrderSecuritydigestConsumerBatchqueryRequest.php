@@ -1,4 +1,5 @@
 <?php
+namespace Mayi\Alipay;
 /**
  * ALIPAY API: alipay.merchant.order.securitydigest.consumer.batchquery request
  *

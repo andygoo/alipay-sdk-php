@@ -1,4 +1,5 @@
 <?php
+namespace Mayi\Alipay;
 /**
  *  TODO 补充说明
  *

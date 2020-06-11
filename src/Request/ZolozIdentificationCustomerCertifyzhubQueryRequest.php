@@ -1,4 +1,5 @@
 <?php
+namespace Mayi\Alipay;
 /**
  * ALIPAY API: zoloz.identification.customer.certifyzhub.query request
  *

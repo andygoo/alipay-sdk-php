@@ -1,4 +1,5 @@
 <?php
+namespace Mayi\Alipay;
 /**
  * ALIPAY API: mybank.payment.trade.qrcode.delete request
  *

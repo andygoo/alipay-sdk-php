@@ -1,4 +1,5 @@
 <?php
+namespace Mayi\Alipay;
 
 /**
  * 验证支付宝公钥证书是否可信

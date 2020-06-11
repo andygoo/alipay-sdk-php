@@ -1,4 +1,5 @@
 <?php
+namespace Mayi\Alipay;
 /**
  * Created by PhpStorm.
  * User: jiehua

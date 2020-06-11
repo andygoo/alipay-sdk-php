@@ -1,4 +1,5 @@
 <?php
+namespace Mayi\Alipay;
 /**
  * ALIPAY API: alipay.ins.auto.autoaftermarket.attachment.upload request
  *

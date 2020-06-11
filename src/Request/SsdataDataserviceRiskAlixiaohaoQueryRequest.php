@@ -1,4 +1,5 @@
 <?php
+namespace Mayi\Alipay;
 /**
  * ALIPAY API: ssdata.dataservice.risk.alixiaohao.query request
  *

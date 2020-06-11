@@ -1,4 +1,5 @@
 <?php
+namespace Mayi\Alipay;
 /**
  * ALIPAY API: alipay.ecapiprod.drawndn.drawndnlist.query request
  *

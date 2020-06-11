@@ -1,4 +1,5 @@
 <?php
+namespace Mayi\Alipay;
 
 class AopCertClient
 {

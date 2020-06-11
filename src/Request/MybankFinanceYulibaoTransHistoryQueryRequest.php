@@ -1,4 +1,5 @@
 <?php
+namespace Mayi\Alipay;
 /**
  * ALIPAY API: mybank.finance.yulibao.trans.history.query request
  *

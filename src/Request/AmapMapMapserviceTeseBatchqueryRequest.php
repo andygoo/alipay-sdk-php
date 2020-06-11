@@ -1,4 +1,5 @@
 <?php
+namespace Mayi\Alipay;
 /**
  * ALIPAY API: amap.map.mapservice.tese.batchquery request
  *

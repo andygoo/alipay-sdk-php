@@ -1,4 +1,5 @@
 <?php
+namespace Mayi\Alipay;
 /**
  * ALIPAY API: aft.finsecure.riskplus.security.policy.query request
  *

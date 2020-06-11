@@ -1,4 +1,5 @@
 <?php
+namespace Mayi\Alipay;
 /**
  * ALIPAY API: zoloz.authentication.customer.smilepay.initialize request
  *
