@@ -1,13 +1,9 @@
 <?php
-namespace Liuwen\Alipay\Request;
-
-
-
 /**
  * ALIPAY API: alipay.marketing.card.delete request
  *
  * @author auto create
- * @since 1.0, 2016-10-27 11:06:31
+ * @since 1.0, 2019-08-08 19:59:26
  */
 class AlipayMarketingCardDeleteRequest
 {

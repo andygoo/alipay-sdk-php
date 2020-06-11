@@ -1,13 +1,9 @@
 <?php
-namespace Liuwen\Alipay\Request;
-
-
-
 /**
  * ALIPAY API: koubei.marketing.data.smartmanagement.diagnose request
  *
  * @author auto create
- * @since 1.0, 2016-09-10 19:12:49
+ * @since 1.0, 2019-01-07 20:51:15
  */
 class KoubeiMarketingDataSmartmanagementDiagnoseRequest
 {

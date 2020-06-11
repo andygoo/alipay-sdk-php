@@ -1,13 +1,9 @@
 <?php
-namespace Liuwen\Alipay\Request;
-
-
-
 /**
  * ALIPAY API: alipay.eco.cplife.bill.batch.upload request
  *
  * @author auto create
- * @since 1.0, 2016-12-07 22:15:17
+ * @since 1.0, 2020-02-19 17:01:29
  */
 class AlipayEcoCplifeBillBatchUploadRequest
 {

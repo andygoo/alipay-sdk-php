@@ -1,13 +1,9 @@
 <?php
-namespace Liuwen\Alipay\Request;
-
-
-
 /**
  * ALIPAY API: alipay.open.servicemarket.order.item.cancel request
  *
  * @author auto create
- * @since 1.0, 2016-08-25 11:11:54
+ * @since 1.0, 2019-07-30 18:05:54
  */
 class AlipayOpenServicemarketOrderItemCancelRequest
 {

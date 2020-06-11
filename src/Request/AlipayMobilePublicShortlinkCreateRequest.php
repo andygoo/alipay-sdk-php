@@ -1,13 +1,9 @@
 <?php
-namespace Liuwen\Alipay\Request;
-
-
-
 /**
  * ALIPAY API: alipay.mobile.public.shortlink.create request
  *
  * @author auto create
- * @since 1.0, 2016-07-29 19:58:48
+ * @since 1.0, 2020-04-02 16:30:15
  */
 class AlipayMobilePublicShortlinkCreateRequest
 {

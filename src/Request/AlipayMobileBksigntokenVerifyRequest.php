@@ -1,13 +1,9 @@
 <?php
-namespace Liuwen\Alipay\Request;
-
-
-
 /**
  * ALIPAY API: alipay.mobile.bksigntoken.verify request
  *
  * @author auto create
- * @since 1.0, 2016-06-21 16:14:51
+ * @since 1.0, 2019-03-08 15:29:11
  */
 class AlipayMobileBksigntokenVerifyRequest
 {

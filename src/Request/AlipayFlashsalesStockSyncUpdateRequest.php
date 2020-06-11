@@ -1,13 +1,9 @@
 <?php
-namespace Liuwen\Alipay\Request;
-
-
-
 /**
  * ALIPAY API: alipay.flashsales.stock.sync.update request
  *
  * @author auto create
- * @since 1.0, 2014-08-22 15:32:32
+ * @since 1.0, 2019-03-08 15:29:11
  */
 class AlipayFlashsalesStockSyncUpdateRequest
 {

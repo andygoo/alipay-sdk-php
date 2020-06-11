@@ -1,13 +1,9 @@
 <?php
-namespace Liuwen\Alipay\Request;
-
-
-
 /**
  * ALIPAY API: koubei.marketing.data.alisis.report.batchquery request
  *
  * @author auto create
- * @since 1.0, 2016-10-28 10:26:26
+ * @since 1.0, 2019-01-07 20:51:15
  */
 class KoubeiMarketingDataAlisisReportBatchqueryRequest
 {

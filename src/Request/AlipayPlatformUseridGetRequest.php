@@ -1,13 +1,9 @@
 <?php
-namespace Liuwen\Alipay\Request;
-
-
-
 /**
  * ALIPAY API: alipay.platform.userid.get request
  *
  * @author auto create
- * @since 1.0, 2016-07-29 19:56:03
+ * @since 1.0, 2019-03-08 15:29:11
  */
 class AlipayPlatformUseridGetRequest
 {

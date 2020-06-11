@@ -1,13 +1,9 @@
 <?php
-namespace Liuwen\Alipay\Request;
-
-
-
 /**
  * ALIPAY API: alipay.trade.refund request
  *
  * @author auto create
- * @since 1.0, 2016-12-06 16:07:23
+ * @since 1.0, 2020-03-16 13:12:24
  */
 class AlipayTradeRefundRequest
 {

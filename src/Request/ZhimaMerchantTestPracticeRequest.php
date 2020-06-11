@@ -1,13 +1,9 @@
 <?php
-namespace Liuwen\Alipay\Request;
-
-
-
 /**
  * ALIPAY API: zhima.merchant.test.practice request
  *
  * @author auto create
- * @since 1.0, 2016-03-30 10:16:33
+ * @since 1.0, 2019-01-07 20:51:15
  */
 class ZhimaMerchantTestPracticeRequest
 {

@@ -1,13 +1,9 @@
 <?php
-namespace Liuwen\Alipay\Request;
-
-
-
 /**
  * ALIPAY API: alipay.data.dataservice.code.reco request
  *
  * @author auto create
- * @since 1.0, 2016-06-02 14:27:04
+ * @since 1.0, 2019-08-13 16:30:28
  */
 class AlipayDataDataserviceCodeRecoRequest
 {

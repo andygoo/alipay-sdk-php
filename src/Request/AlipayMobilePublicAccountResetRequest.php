@@ -1,13 +1,9 @@
 <?php
-namespace Liuwen\Alipay\Request;
-
-
-
 /**
  * ALIPAY API: alipay.mobile.public.account.reset request
  *
  * @author auto create
- * @since 1.0, 2016-03-24 21:17:49
+ * @since 1.0, 2020-04-07 16:48:11
  */
 class AlipayMobilePublicAccountResetRequest
 {

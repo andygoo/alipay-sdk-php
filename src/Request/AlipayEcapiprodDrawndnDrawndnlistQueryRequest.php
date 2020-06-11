@@ -1,13 +1,9 @@
 <?php
-namespace Liuwen\Alipay\Request;
-
-
-
 /**
  * ALIPAY API: alipay.ecapiprod.drawndn.drawndnlist.query request
  *
  * @author auto create
- * @since 1.0, 2016-03-29 11:34:45
+ * @since 1.0, 2019-03-08 15:29:11
  */
 class AlipayEcapiprodDrawndnDrawndnlistQueryRequest
 {

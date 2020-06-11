@@ -1,13 +1,9 @@
 <?php
-namespace Liuwen\Alipay\Request;
-
-
-
 /**
  * ALIPAY API: alipay.offline.market.shop.summary.batchquery request
  *
  * @author auto create
- * @since 1.0, 2016-11-19 11:59:28
+ * @since 1.0, 2019-06-07 22:50:01
  */
 class AlipayOfflineMarketShopSummaryBatchqueryRequest
 {

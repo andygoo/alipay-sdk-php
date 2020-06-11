@@ -1,13 +1,9 @@
 <?php
-namespace Liuwen\Alipay\Request;
-
-
-
 /**
  * ALIPAY API: alipay.marketing.card.consume.sync request
  *
  * @author auto create
- * @since 1.0, 2016-10-18 15:46:55
+ * @since 1.0, 2019-10-18 17:45:56
  */
 class AlipayMarketingCardConsumeSyncRequest
 {

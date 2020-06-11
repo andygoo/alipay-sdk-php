@@ -1,13 +1,9 @@
 <?php
-namespace Liuwen\Alipay\Request;
-
-
-
 /**
  * ALIPAY API: alipay.offline.provider.equipment.auth.remove request
  *
  * @author auto create
- * @since 1.0, 2016-06-30 15:45:07
+ * @since 1.0, 2019-01-07 20:51:15
  */
 class AlipayOfflineProviderEquipmentAuthRemoveRequest
 {

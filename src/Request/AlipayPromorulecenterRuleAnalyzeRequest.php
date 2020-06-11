@@ -1,13 +1,9 @@
 <?php
-namespace Liuwen\Alipay\Request;
-
-
-
 /**
  * ALIPAY API: alipay.promorulecenter.rule.analyze request
  *
  * @author auto create
- * @since 1.0, 2016-08-24 19:29:37
+ * @since 1.0, 2019-03-08 15:29:11
  */
 class AlipayPromorulecenterRuleAnalyzeRequest
 {

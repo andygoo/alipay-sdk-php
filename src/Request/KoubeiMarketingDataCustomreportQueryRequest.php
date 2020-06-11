@@ -1,13 +1,9 @@
 <?php
-namespace Liuwen\Alipay\Request;
-
-
-
 /**
  * ALIPAY API: koubei.marketing.data.customreport.query request
  *
  * @author auto create
- * @since 1.0, 2016-12-05 18:06:09
+ * @since 1.0, 2019-01-07 20:51:15
  */
 class KoubeiMarketingDataCustomreportQueryRequest
 {

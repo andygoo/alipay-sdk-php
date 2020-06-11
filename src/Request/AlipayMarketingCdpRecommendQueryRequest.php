@@ -1,13 +1,9 @@
 <?php
-namespace Liuwen\Alipay\Request;
-
-
-
 /**
  * ALIPAY API: alipay.marketing.cdp.recommend.query request
  *
  * @author auto create
- * @since 1.0, 2016-07-12 19:37:01
+ * @since 1.0, 2019-01-07 20:51:15
  */
 class AlipayMarketingCdpRecommendQueryRequest
 {

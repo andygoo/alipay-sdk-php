@@ -1,13 +1,9 @@
 <?php
-namespace Liuwen\Alipay\Request;
-
-
-
 /**
  * ALIPAY API: alipay.asset.point.budget.query request
  *
  * @author auto create
- * @since 1.0, 2016-07-29 19:52:25
+ * @since 1.0, 2019-01-07 20:51:15
  */
 class AlipayAssetPointBudgetQueryRequest
 {

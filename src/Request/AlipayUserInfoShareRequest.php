@@ -1,13 +1,9 @@
 <?php
-namespace Liuwen\Alipay\Request;
-
-
-
 /**
  * ALIPAY API: alipay.user.info.share request
  *
  * @author auto create
- * @since 1.0, 2016-12-08 00:31:54
+ * @since 1.0, 2019-12-17 14:01:39
  */
 class AlipayUserInfoShareRequest
 {

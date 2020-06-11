@@ -1,13 +1,9 @@
 <?php
-namespace Liuwen\Alipay\Request;
-
-
-
 /**
  * ALIPAY API: alipay.eco.mycar.maintain.data.update request
  *
  * @author auto create
- * @since 1.0, 2016-06-14 15:11:26
+ * @since 1.0, 2019-08-29 11:20:36
  */
 class AlipayEcoMycarMaintainDataUpdateRequest
 {

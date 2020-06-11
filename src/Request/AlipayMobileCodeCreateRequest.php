@@ -1,13 +1,9 @@
 <?php
-namespace Liuwen\Alipay\Request;
-
-
-
 /**
  * ALIPAY API: alipay.mobile.code.create request
  *
  * @author auto create
- * @since 1.0, 2016-07-14 14:37:58
+ * @since 1.0, 2019-05-22 09:51:30
  */
 class AlipayMobileCodeCreateRequest
 {

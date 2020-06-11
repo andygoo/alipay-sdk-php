@@ -1,13 +1,9 @@
 <?php
-namespace Liuwen\Alipay\Request;
-
-
-
 /**
  * ALIPAY API: zhima.data.batch.feedback request
  *
  * @author auto create
- * @since 1.0, 2016-09-21 18:50:38
+ * @since 1.0, 2019-01-07 20:51:15
  */
 class ZhimaDataBatchFeedbackRequest
 {

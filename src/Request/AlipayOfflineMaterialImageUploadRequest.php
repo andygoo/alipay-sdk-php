@@ -1,13 +1,9 @@
 <?php
-namespace Liuwen\Alipay\Request;
-
-
-
 /**
  * ALIPAY API: alipay.offline.material.image.upload request
  *
  * @author auto create
- * @since 1.0, 2016-09-20 16:31:32
+ * @since 1.0, 2019-03-08 15:29:11
  */
 class AlipayOfflineMaterialImageUploadRequest
 {

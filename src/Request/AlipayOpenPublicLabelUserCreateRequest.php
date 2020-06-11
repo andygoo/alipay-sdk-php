@@ -1,13 +1,9 @@
 <?php
-namespace Liuwen\Alipay\Request;
-
-
-
 /**
  * ALIPAY API: alipay.open.public.label.user.create request
  *
  * @author auto create
- * @since 1.0, 2016-12-08 11:54:45
+ * @since 1.0, 2020-04-07 10:52:24
  */
 class AlipayOpenPublicLabelUserCreateRequest
 {

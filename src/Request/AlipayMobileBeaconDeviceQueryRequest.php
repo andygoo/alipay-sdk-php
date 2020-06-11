@@ -1,13 +1,9 @@
 <?php
-namespace Liuwen\Alipay\Request;
-
-
-
 /**
  * ALIPAY API: alipay.mobile.beacon.device.query request
  *
  * @author auto create
- * @since 1.0, 2015-02-03 20:00:56
+ * @since 1.0, 2019-03-08 15:29:11
  */
 class AlipayMobileBeaconDeviceQueryRequest
 {

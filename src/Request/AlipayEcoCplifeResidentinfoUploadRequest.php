@@ -1,13 +1,9 @@
 <?php
-namespace Liuwen\Alipay\Request;
-
-
-
 /**
  * ALIPAY API: alipay.eco.cplife.residentinfo.upload request
  *
  * @author auto create
- * @since 1.0, 2016-12-07 22:14:29
+ * @since 1.0, 2019-01-07 20:51:15
  */
 class AlipayEcoCplifeResidentinfoUploadRequest
 {

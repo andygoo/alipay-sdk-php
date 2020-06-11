@@ -1,13 +1,9 @@
 <?php
-namespace Liuwen\Alipay\Request;
-
-
-
 /**
  * ALIPAY API: alipay.micropay.order.freezepayurl.get request
  *
  * @author auto create
- * @since 1.0, 2016-06-06 17:52:18
+ * @since 1.0, 2019-03-08 15:29:11
  */
 class AlipayMicropayOrderFreezepayurlGetRequest
 {

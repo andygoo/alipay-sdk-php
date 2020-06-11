@@ -1,13 +1,9 @@
 <?php
-namespace Liuwen\Alipay\Request;
-
-
-
 /**
  * ALIPAY API: zhima.credit.watchlistii.get request
  *
  * @author auto create
- * @since 1.0, 2016-11-08 10:45:17
+ * @since 1.0, 2019-01-07 20:51:15
  */
 class ZhimaCreditWatchlistiiGetRequest
 {

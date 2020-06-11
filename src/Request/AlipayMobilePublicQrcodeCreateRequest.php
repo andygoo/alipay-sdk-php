@@ -1,13 +1,9 @@
 <?php
-namespace Liuwen\Alipay\Request;
-
-
-
 /**
  * ALIPAY API: alipay.mobile.public.qrcode.create request
  *
  * @author auto create
- * @since 1.0, 2016-10-08 13:32:25
+ * @since 1.0, 2020-04-07 16:47:51
  */
 class AlipayMobilePublicQrcodeCreateRequest
 {

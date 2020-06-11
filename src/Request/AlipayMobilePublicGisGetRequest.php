@@ -1,13 +1,9 @@
 <?php
-namespace Liuwen\Alipay\Request;
-
-
-
 /**
  * ALIPAY API: alipay.mobile.public.gis.get request
  *
  * @author auto create
- * @since 1.0, 2016-10-09 11:38:26
+ * @since 1.0, 2019-03-08 15:29:11
  */
 class AlipayMobilePublicGisGetRequest
 {

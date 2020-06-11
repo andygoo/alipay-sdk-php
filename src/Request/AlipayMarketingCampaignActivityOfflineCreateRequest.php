@@ -1,13 +1,9 @@
 <?php
-namespace Liuwen\Alipay\Request;
-
-
-
 /**
  * ALIPAY API: alipay.marketing.campaign.activity.offline.create request
  *
  * @author auto create
- * @since 1.0, 2016-09-23 09:25:03
+ * @since 1.0, 2019-01-07 20:51:15
  */
 class AlipayMarketingCampaignActivityOfflineCreateRequest
 {

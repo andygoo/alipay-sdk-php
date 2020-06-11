@@ -1,13 +1,9 @@
 <?php
-namespace Liuwen\Alipay\Request;
-
-
-
 /**
  * ALIPAY API: alipay.zdatafront.datatransfered.fileupload request
  *
  * @author auto create
- * @since 1.0, 2016-06-02 10:22:35
+ * @since 1.0, 2019-03-08 15:29:11
  */
 class AlipayZdatafrontDatatransferedFileuploadRequest
 {
@@ -17,7 +13,7 @@ class AlipayZdatafrontDatatransferedFileuploadRequest
 	private $columns;
 	
 	/** 
-	 * 二进制字节数组，由文件转出
+	 * 二进制字节数组，由文件转出，最大支持50M文件的上传
 	 **/
 	private $file;
 	

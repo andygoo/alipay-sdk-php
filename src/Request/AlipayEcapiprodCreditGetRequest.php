@@ -1,13 +1,9 @@
 <?php
-namespace Liuwen\Alipay\Request;
-
-
-
 /**
  * ALIPAY API: alipay.ecapiprod.credit.get request
  *
  * @author auto create
- * @since 1.0, 2015-04-02 16:44:25
+ * @since 1.0, 2019-03-08 15:29:11
  */
 class AlipayEcapiprodCreditGetRequest
 {

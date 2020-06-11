@@ -1,13 +1,9 @@
 <?php
-namespace Liuwen\Alipay\Request;
-
-
-
 /**
  * ALIPAY API: alipay.trade.pay request
  *
  * @author auto create
- * @since 1.0, 2016-12-08 00:37:26
+ * @since 1.0, 2020-03-16 13:12:23
  */
 class AlipayTradePayRequest
 {

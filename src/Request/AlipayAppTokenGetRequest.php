@@ -1,13 +1,9 @@
 <?php
-namespace Liuwen\Alipay\Request;
-
-
-
 /**
  * ALIPAY API: alipay.app.token.get request
  *
  * @author auto create
- * @since 1.0, 2016-07-29 19:56:12
+ * @since 1.0, 2019-03-26 17:00:00
  */
 class AlipayAppTokenGetRequest
 {

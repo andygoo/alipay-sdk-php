@@ -1,13 +1,9 @@
 <?php
-namespace Liuwen\Alipay\Request;
-
-
-
 /**
  * ALIPAY API: alipay.mobile.std.public.follow.list request
  *
  * @author auto create
- * @since 1.0, 2016-03-24 21:16:13
+ * @since 1.0, 2020-04-07 17:01:12
  */
 class AlipayMobileStdPublicFollowListRequest
 {

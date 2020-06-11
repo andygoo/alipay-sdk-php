@@ -1,13 +1,9 @@
 <?php
-namespace Liuwen\Alipay\Request;
-
-
-
 /**
  * ALIPAY API: alipay.mobile.public.menu.add request
  *
  * @author auto create
- * @since 1.0, 2016-07-29 20:01:02
+ * @since 1.0, 2020-04-07 17:00:56
  */
 class AlipayMobilePublicMenuAddRequest
 {

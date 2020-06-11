@@ -1,13 +1,9 @@
 <?php
-namespace Liuwen\Alipay\Request;
-
-
-
 /**
  * ALIPAY API: alipay.mobile.public.label.add request
  *
  * @author auto create
- * @since 1.0, 2016-07-29 20:00:29
+ * @since 1.0, 2020-04-07 16:51:40
  */
 class AlipayMobilePublicLabelAddRequest
 {

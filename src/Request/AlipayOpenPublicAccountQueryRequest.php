@@ -1,13 +1,9 @@
 <?php
-namespace Liuwen\Alipay\Request;
-
-
-
 /**
  * ALIPAY API: alipay.open.public.account.query request
  *
  * @author auto create
- * @since 1.0, 2016-12-08 11:51:07
+ * @since 1.0, 2020-04-07 16:59:55
  */
 class AlipayOpenPublicAccountQueryRequest
 {

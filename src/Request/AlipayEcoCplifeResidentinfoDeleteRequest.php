@@ -1,13 +1,9 @@
 <?php
-namespace Liuwen\Alipay\Request;
-
-
-
 /**
  * ALIPAY API: alipay.eco.cplife.residentinfo.delete request
  *
  * @author auto create
- * @since 1.0, 2016-11-24 16:14:56
+ * @since 1.0, 2019-01-07 20:51:15
  */
 class AlipayEcoCplifeResidentinfoDeleteRequest
 {

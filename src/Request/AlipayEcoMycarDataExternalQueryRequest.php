@@ -1,13 +1,9 @@
 <?php
-namespace Liuwen\Alipay\Request;
-
-
-
 /**
  * ALIPAY API: alipay.eco.mycar.data.external.query request
  *
  * @author auto create
- * @since 1.0, 2016-09-20 16:38:11
+ * @since 1.0, 2019-07-24 10:19:24
  */
 class AlipayEcoMycarDataExternalQueryRequest
 {

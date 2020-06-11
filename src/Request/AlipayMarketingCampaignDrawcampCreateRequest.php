@@ -1,13 +1,9 @@
 <?php
-namespace Liuwen\Alipay\Request;
-
-
-
 /**
  * ALIPAY API: alipay.marketing.campaign.drawcamp.create request
  *
  * @author auto create
- * @since 1.0, 2016-11-10 14:13:00
+ * @since 1.0, 2019-09-16 12:01:39
  */
 class AlipayMarketingCampaignDrawcampCreateRequest
 {

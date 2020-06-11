@@ -1,13 +1,9 @@
 <?php
-namespace Liuwen\Alipay\Request;
-
-
-
 /**
  * ALIPAY API: alipay.mobile.public.label.user.delete request
  *
  * @author auto create
- * @since 1.0, 2016-07-29 19:58:34
+ * @since 1.0, 2020-04-07 16:54:40
  */
 class AlipayMobilePublicLabelUserDeleteRequest
 {

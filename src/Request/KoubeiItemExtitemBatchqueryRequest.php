@@ -1,13 +1,9 @@
 <?php
-namespace Liuwen\Alipay\Request;
-
-
-
 /**
  * ALIPAY API: koubei.item.extitem.batchquery request
  *
  * @author auto create
- * @since 1.0, 2016-07-06 10:48:09
+ * @since 1.0, 2019-01-07 20:51:15
  */
 class KoubeiItemExtitemBatchqueryRequest
 {

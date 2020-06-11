@@ -1,13 +1,9 @@
 <?php
-namespace Liuwen\Alipay\Request;
-
-
-
 /**
  * ALIPAY API: alipay.data.dataexchange.sfasdf request
  *
  * @author auto create
- * @since 1.0, 2016-03-18 20:58:13
+ * @since 1.0, 2019-01-07 20:51:15
  */
 class AlipayDataDataexchangeSfasdfRequest
 {

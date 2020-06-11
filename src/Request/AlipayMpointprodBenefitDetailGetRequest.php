@@ -1,13 +1,9 @@
 <?php
-namespace Liuwen\Alipay\Request;
-
-
-
 /**
  * ALIPAY API: alipay.mpointprod.benefit.detail.get request
  *
  * @author auto create
- * @since 1.0, 2015-01-29 15:46:36
+ * @since 1.0, 2019-03-08 15:29:11
  */
 class AlipayMpointprodBenefitDetailGetRequest
 {

@@ -1,13 +1,9 @@
 <?php
-namespace Liuwen\Alipay\Request;
-
-
-
 /**
  * ALIPAY API: alipay.eco.mycar.promo.ticket.push request
  *
  * @author auto create
- * @since 1.0, 2016-05-12 09:57:45
+ * @since 1.0, 2019-08-29 11:18:52
  */
 class AlipayEcoMycarPromoTicketPushRequest
 {

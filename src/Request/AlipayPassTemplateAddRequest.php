@@ -1,13 +1,9 @@
 <?php
-namespace Liuwen\Alipay\Request;
-
-
-
 /**
  * ALIPAY API: alipay.pass.template.add request
  *
  * @author auto create
- * @since 1.0, 2016-07-29 00:33:36
+ * @since 1.0, 2019-08-08 20:00:10
  */
 class AlipayPassTemplateAddRequest
 {

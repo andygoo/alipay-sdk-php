@@ -1,13 +1,9 @@
 <?php
-namespace Liuwen\Alipay\Request;
-
-
-
 /**
  * ALIPAY API: alipay.mobile.recommend.get request
  *
  * @author auto create
- * @since 1.0, 2015-03-11 15:19:54
+ * @since 1.0, 2019-03-08 15:29:11
  */
 class AlipayMobileRecommendGetRequest
 {

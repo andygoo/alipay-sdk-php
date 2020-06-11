@@ -1,13 +1,9 @@
 <?php
-namespace Liuwen\Alipay\Request;
-
-
-
 /**
  * ALIPAY API: alipay.commerce.cityfacilitator.station.query request
  *
  * @author auto create
- * @since 1.0, 2016-08-03 16:10:49
+ * @since 1.0, 2019-10-10 16:31:07
  */
 class AlipayCommerceCityfacilitatorStationQueryRequest
 {

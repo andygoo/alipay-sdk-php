@@ -1,13 +1,9 @@
 <?php
-namespace Liuwen\Alipay\Request;
-
-
-
 /**
  * ALIPAY API: alipay.mobile.public.message.single.send request
  *
  * @author auto create
- * @since 1.0, 2016-10-28 10:12:35
+ * @since 1.0, 2020-02-12 09:49:41
  */
 class AlipayMobilePublicMessageSingleSendRequest
 {

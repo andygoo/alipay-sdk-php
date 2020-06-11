@@ -1,13 +1,9 @@
 <?php
-namespace Liuwen\Alipay\Request;
-
-
-
 /**
  * ALIPAY API: alipay.open.public.partner.subscribe.sync request
  *
  * @author auto create
- * @since 1.0, 2016-12-08 12:10:03
+ * @since 1.0, 2020-04-02 16:32:39
  */
 class AlipayOpenPublicPartnerSubscribeSyncRequest
 {

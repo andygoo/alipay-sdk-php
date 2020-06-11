@@ -1,13 +1,9 @@
 <?php
-namespace Liuwen\Alipay\Request;
-
-
-
 /**
  * ALIPAY API: alipay.open.app.codetesttest request
  *
  * @author auto create
- * @since 1.0, 2016-05-11 19:52:52
+ * @since 1.0, 2019-01-07 20:51:15
  */
 class AlipayOpenAppCodetesttestRequest
 {

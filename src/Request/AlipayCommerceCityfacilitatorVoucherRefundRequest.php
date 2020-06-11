@@ -1,13 +1,9 @@
 <?php
-namespace Liuwen\Alipay\Request;
-
-
-
 /**
  * ALIPAY API: alipay.commerce.cityfacilitator.voucher.refund request
  *
  * @author auto create
- * @since 1.0, 2016-08-03 16:10:56
+ * @since 1.0, 2019-10-10 16:32:08
  */
 class AlipayCommerceCityfacilitatorVoucherRefundRequest
 {

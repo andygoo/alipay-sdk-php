@@ -1,13 +1,9 @@
 <?php
-namespace Liuwen\Alipay\Request;
-
-
-
 /**
  * ALIPAY API: alipay.commerce.cityfacilitator.voucher.upload request
  *
  * @author auto create
- * @since 1.0, 2016-04-28 14:25:37
+ * @since 1.0, 2019-10-10 16:30:13
  */
 class AlipayCommerceCityfacilitatorVoucherUploadRequest
 {

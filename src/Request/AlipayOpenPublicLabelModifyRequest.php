@@ -1,13 +1,9 @@
 <?php
-namespace Liuwen\Alipay\Request;
-
-
-
 /**
  * ALIPAY API: alipay.open.public.label.modify request
  *
  * @author auto create
- * @since 1.0, 2016-12-08 11:55:16
+ * @since 1.0, 2020-04-07 10:50:05
  */
 class AlipayOpenPublicLabelModifyRequest
 {

@@ -1,13 +1,9 @@
 <?php
-namespace Liuwen\Alipay\Request;
-
-
-
 /**
  * ALIPAY API: alipay.eco.mycar.parking.lotbarcode.create request
  *
  * @author auto create
- * @since 1.0, 2016-06-14 15:08:52
+ * @since 1.0, 2019-08-29 11:19:21
  */
 class AlipayEcoMycarParkingLotbarcodeCreateRequest
 {

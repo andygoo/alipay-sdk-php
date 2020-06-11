@@ -1,13 +1,9 @@
 <?php
-namespace Liuwen\Alipay\Request;
-
-
-
 /**
  * ALIPAY API: alipay.mobile.shake.user.query request
  *
  * @author auto create
- * @since 1.0, 2016-07-29 19:51:11
+ * @since 1.0, 2020-03-25 16:32:27
  */
 class AlipayMobileShakeUserQueryRequest
 {

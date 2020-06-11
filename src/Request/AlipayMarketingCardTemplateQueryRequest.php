@@ -1,13 +1,9 @@
 <?php
-namespace Liuwen\Alipay\Request;
-
-
-
 /**
  * ALIPAY API: alipay.marketing.card.template.query request
  *
  * @author auto create
- * @since 1.0, 2016-10-18 15:46:32
+ * @since 1.0, 2019-08-08 20:00:26
  */
 class AlipayMarketingCardTemplateQueryRequest
 {

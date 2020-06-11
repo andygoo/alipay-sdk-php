@@ -1,13 +1,9 @@
 <?php
-namespace Liuwen\Alipay\Request;
-
-
-
 /**
  * ALIPAY API: alipay.ebpp.pdeduct.sign.cancel request
  *
  * @author auto create
- * @since 1.0, 2016-11-16 13:26:07
+ * @since 1.0, 2019-03-08 15:29:11
  */
 class AlipayEbppPdeductSignCancelRequest
 {

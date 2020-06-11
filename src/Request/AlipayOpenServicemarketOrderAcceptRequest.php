@@ -1,13 +1,9 @@
 <?php
-namespace Liuwen\Alipay\Request;
-
-
-
 /**
  * ALIPAY API: alipay.open.servicemarket.order.accept request
  *
  * @author auto create
- * @since 1.0, 2016-12-08 11:47:51
+ * @since 1.0, 2019-01-07 20:51:15
  */
 class AlipayOpenServicemarketOrderAcceptRequest
 {

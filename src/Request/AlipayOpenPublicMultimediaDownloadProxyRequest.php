@@ -1,13 +1,9 @@
 <?php
-namespace Liuwen\Alipay\Request;
-
-
-
 /**
  * ALIPAY API: alipay.open.public.multimedia.download.proxy request
  *
  * @author auto create
- * @since 1.0, 2016-12-08 12:09:33
+ * @since 1.0, 2020-04-02 16:32:21
  */
 class AlipayOpenPublicMultimediaDownloadProxyRequest
 {

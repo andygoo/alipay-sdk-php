@@ -1,13 +1,9 @@
 <?php
-namespace Liuwen\Alipay\Request;
-
-
-
 /**
  * ALIPAY API: alipay.open.public.follow.batchquery request
  *
  * @author auto create
- * @since 1.0, 2016-12-08 12:00:37
+ * @since 1.0, 2019-06-21 14:02:08
  */
 class AlipayOpenPublicFollowBatchqueryRequest
 {

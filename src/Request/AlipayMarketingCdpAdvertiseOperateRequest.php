@@ -1,13 +1,9 @@
 <?php
-namespace Liuwen\Alipay\Request;
-
-
-
 /**
  * ALIPAY API: alipay.marketing.cdp.advertise.operate request
  *
  * @author auto create
- * @since 1.0, 2016-07-18 16:42:11
+ * @since 1.0, 2019-03-19 12:04:23
  */
 class AlipayMarketingCdpAdvertiseOperateRequest
 {

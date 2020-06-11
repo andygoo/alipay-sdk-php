@@ -1,13 +1,9 @@
 <?php
-namespace Liuwen\Alipay\Request;
-
-
-
 /**
  * ALIPAY API: alipay.zdataassets.fcdatalab.zdatamergetask request
  *
  * @author auto create
- * @since 1.0, 2016-03-03 17:49:28
+ * @since 1.0, 2019-03-08 15:29:11
  */
 class AlipayZdataassetsFcdatalabZdatamergetaskRequest
 {

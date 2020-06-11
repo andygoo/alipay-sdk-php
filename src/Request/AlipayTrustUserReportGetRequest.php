@@ -1,13 +1,9 @@
 <?php
-namespace Liuwen\Alipay\Request;
-
-
-
 /**
  * ALIPAY API: alipay.trust.user.report.get request
  *
  * @author auto create
- * @since 1.0, 2016-03-04 11:36:24
+ * @since 1.0, 2019-03-08 15:29:11
  */
 class AlipayTrustUserReportGetRequest
 {

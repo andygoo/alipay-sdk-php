@@ -1,13 +1,9 @@
 <?php
-namespace Liuwen\Alipay\Request;
-
-
-
 /**
  * ALIPAY API: alipay.marketing.campaign.drawcamp.status.update request
  *
  * @author auto create
- * @since 1.0, 2016-11-10 14:14:10
+ * @since 1.0, 2019-01-07 20:51:15
  */
 class AlipayMarketingCampaignDrawcampStatusUpdateRequest
 {

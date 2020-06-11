@@ -1,13 +1,9 @@
 <?php
-namespace Liuwen\Alipay\Request;
-
-
-
 /**
  * ALIPAY API: alipay.ebpp.pdeduct.pay request
  *
  * @author auto create
- * @since 1.0, 2016-11-17 11:02:59
+ * @since 1.0, 2019-03-08 15:29:11
  */
 class AlipayEbppPdeductPayRequest
 {

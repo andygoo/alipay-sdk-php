@@ -1,13 +1,9 @@
 <?php
-namespace Liuwen\Alipay\Request;
-
-
-
 /**
  * ALIPAY API: alipay.member.coupon.querylist request
  *
  * @author auto create
- * @since 1.0, 2014-11-19 15:53:19
+ * @since 1.0, 2019-03-08 15:29:11
  */
 class AlipayMemberCouponQuerylistRequest
 {

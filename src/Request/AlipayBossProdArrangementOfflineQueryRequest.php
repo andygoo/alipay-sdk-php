@@ -1,13 +1,9 @@
 <?php
-namespace Liuwen\Alipay\Request;
-
-
-
 /**
  * ALIPAY API: alipay.boss.prod.arrangement.offline.query request
  *
  * @author auto create
- * @since 1.0, 2016-10-28 14:44:30
+ * @since 1.0, 2019-03-08 15:29:11
  */
 class AlipayBossProdArrangementOfflineQueryRequest
 {

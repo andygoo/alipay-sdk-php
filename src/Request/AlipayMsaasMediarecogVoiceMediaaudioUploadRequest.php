@@ -1,13 +1,9 @@
 <?php
-namespace Liuwen\Alipay\Request;
-
-
-
 /**
  * ALIPAY API: alipay.msaas.mediarecog.voice.mediaaudio.upload request
  *
  * @author auto create
- * @since 1.0, 2016-05-28 22:41:09
+ * @since 1.0, 2019-01-07 20:51:15
  */
 class AlipayMsaasMediarecogVoiceMediaaudioUploadRequest
 {

@@ -1,13 +1,9 @@
 <?php
-namespace Liuwen\Alipay\Request;
-
-
-
 /**
  * ALIPAY API: koubei.marketing.tool.prizesend.auth request
  *
  * @author auto create
- * @since 1.0, 2016-10-09 11:45:06
+ * @since 1.0, 2019-01-07 20:51:15
  */
 class KoubeiMarketingToolPrizesendAuthRequest
 {
