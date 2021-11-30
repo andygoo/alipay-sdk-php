@@ -1,1 +1,1 @@
-Alipay SDK Composer Package By 20170614 。
+Alipay SDK Composer Package By 20170614 
